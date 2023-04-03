@@ -25,7 +25,7 @@ public class DenominationsCalculator {
 						
 			int divisor = denominations[denominationIndex];
 			
-		
+			// Division operation
 			int quotient = dividend / divisor;
 			int remainder = dividend % divisor;
 

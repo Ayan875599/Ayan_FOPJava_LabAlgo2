@@ -23,5 +23,6 @@ public class DenominationInstancesPair {
 	public void setNoOfInstances(int noOfInstances) {
 		this.noOfInstances = noOfInstances;
 	}	
+
 }
 
